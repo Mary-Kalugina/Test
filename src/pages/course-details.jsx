@@ -1,6 +1,6 @@
-import React from "react";
+import React from 'react';
 import SEO from "../common/seo";
-import CourseDetails from "../components/course-details";
+import CourseDetails from "../components/course-details/index";
 import WrapperFour from "../layout/wrapper-4";
 
 const index = () => {
